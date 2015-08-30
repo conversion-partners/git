@@ -1,8 +1,8 @@
 {
-    "name": "sebastian/git",
+    "name": "conversion-partners/git",
     "description": "Simple wrapper for Git",
     "keywords": ["git"],
-    "homepage": "http://www.github.com/sebastianbergmann/git",
+    "homepage": "http://www.github.com/conversion-partners/git",
     "license": "BSD-3-Clause",
     "authors": [
         {
